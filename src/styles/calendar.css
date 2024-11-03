@@ -1,0 +1,19 @@
+.rdp-day_fully-booked {
+  background-color: var(--red-100) !important;
+  color: var(--red-900) !important;
+}
+
+.rdp-day_limited {
+  background-color: var(--orange-100) !important;
+  color: var(--orange-900) !important;
+}
+
+.rdp-day_available {
+  background-color: var(--gray-100) !important;
+  color: var(--gray-900) !important;
+}
+
+.rdp-day_selected {
+  background-color: var(--primary) !important;
+  color: var(--primary-foreground) !important;
+}
